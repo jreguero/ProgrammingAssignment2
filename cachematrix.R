@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## makeCacheMatriz creates an special matrix objects that allows 
 ## us to store a matrix and its inverse. It has submethods to 
 ## update and recover both the matrix and its inverse.
